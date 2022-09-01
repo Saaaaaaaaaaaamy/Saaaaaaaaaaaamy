@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <h1 align="center">Hi 👋, I'm Samantha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from México</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
